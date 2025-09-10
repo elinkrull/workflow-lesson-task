@@ -72,7 +72,7 @@ npm run lint
 Format the code with Prettier:
 
 ```
-npm run lint
+npm run format
 ```
 
 ## Author
