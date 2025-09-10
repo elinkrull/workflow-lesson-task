@@ -75,6 +75,6 @@ Format the code with Prettier:
 npm run lint
 ```
 
-## Contact
+## Author
 
-[My LinkedIn page](https://www.linkedin.com/in/elin-thoen-jakobsen-2224a2264/)
+Elin Thoen Jakobsen
